@@ -1,6 +1,6 @@
 package gamemain;
 
-import gameframe.GameFrame;
+import game.GameFrame;
 
 /**
  * 程序的入口

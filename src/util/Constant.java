@@ -31,4 +31,8 @@ public class Constant {
 
     // 游戏菜单字体
     public static final Font GAME_FONT = new Font("宋体", Font.BOLD, 24);
+
+    // 游戏刷新间隔
+    public static final int REPAINT_INTERVAL = 3000;
 }
+
