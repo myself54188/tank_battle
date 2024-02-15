@@ -33,6 +33,6 @@ public class Constant {
     public static final Font GAME_FONT = new Font("宋体", Font.BOLD, 24);
 
     // 游戏刷新间隔
-    public static final int REPAINT_INTERVAL = 3000;
+    public static final int REPAINT_INTERVAL = 50;
 }
 
